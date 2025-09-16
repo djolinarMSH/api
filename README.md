@@ -1,2 +1,1 @@
-# api
-api allert.in.ua
+Це мій перший репозиторій на GitHub!
